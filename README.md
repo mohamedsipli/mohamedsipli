@@ -4,7 +4,7 @@
 <!--Intro Section-->
 <img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/intro.gif" width="30%" align="right">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Grduated and Completed MSc. Computer Science at NIT Tiruchirappalli.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Graduated and Completed MSc. Computer Science at NIT Tiruchirappalli.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in Artificial Intelligence & Software Development.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/research.jpg" alt="C" width="20" height="20" />&nbsp;&nbsp;Research Interests: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience in boring Arial font with font-size 12 [(Resume)](https://abhinavbohra.technology/files/Abhinav_Bohra_Resume.pdf) <br><br>
