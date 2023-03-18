@@ -4,7 +4,7 @@
 <!--Intro Section-->
 <img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/intro.gif" width="30%" align="right">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Alumnus of NIT Tiruchirappalli.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;An Alumnus of NIT Tiruchirappalli.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in Artificial Intelligence & Software Development.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/research.jpg" alt="C" width="20" height="20" />&nbsp;&nbsp;Research Interests: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience in boring Arial font with font-size 12 [(Resume)](https://abhinavbohra.technology/files/Abhinav_Bohra_Resume.pdf) <br><br>
@@ -38,8 +38,6 @@
 	<h4>Software Packages</h4><p>
 	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/gitlab.svg" alt="GitLab" width="40" height="40" />&nbsp;
 	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
-	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/zeppelin.png" alt="Zeppelin" width="40" height="40" />&nbsp;
-	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/sagemaker.png" alt="Sagemaker" width="40" height="40" />&nbsp;
 	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/netbeans.svg" alt="Netbeans" width="50" height="50" />&nbsp;
 	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/eclipse.svg" alt="eclipse" width="40" height="40" />&nbsp;
 	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp;
