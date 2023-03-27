@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Graduated and Completed MSc. Computer Science at NIT Tiruchirappalli.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in Artificial Intelligence & Software Development.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/research.jpg" alt="C" width="20" height="20" />&nbsp;&nbsp;Research Interests: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Please have a look at my [(Resume)](https://abhinavbohra.technology/files/Abhinav_Bohra_Resume.pdf) for more details about me. I'm open to feedback and suggestions!  <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Please have a look at my [Resume](https://abhinavbohra.technology/files/Abhinav_Bohra_Resume.pdf) for more details about me. I'm open to feedback and suggestions!  <br><br>
 
 <!--Skills Section-->
 ## My Tech Stack
