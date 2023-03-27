@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Graduated and Completed MSc. Computer Science at NIT Tiruchirappalli.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in Artificial Intelligence & Software Development.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/research.jpg" alt="C" width="20" height="20" />&nbsp;&nbsp;Research Interests: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience in boring Arial font with font-size 12 [(Resume)](https://abhinavbohra.technology/files/Abhinav_Bohra_Resume.pdf) <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Please have a look at my [(Resume)](https://abhinavbohra.technology/files/Abhinav_Bohra_Resume.pdf) for more details about me. I'm open to feedback and suggestions!  <br><br>
 
 <!--Skills Section-->
 ## My Tech Stack
@@ -31,7 +31,7 @@
 	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/pyspark.png" alt="PySpark" width="110" height="50" />&nbsp;
 	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/tensorflow-tf.svg" alt="TensorFlow" width="40" height="40" />&nbsp;
 	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/keras.svg" alt="Keras" width="40" height="40" />&nbsp;
-	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp;
+	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/scikit-learn.png" alt="Scikit Learn" width="60" height="40" />&nbsp;
 	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp;
 	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/flask.svg" alt="Flask" width="40" height="40" />&nbsp;
 	<img src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p>
@@ -60,8 +60,7 @@
 	</a>
 	<a href="https://facebook.com/mohamedsipli">
 		&nbsp;&nbsp;<img alt="mohamedsipli - Facebook" width="42px" src="https://github.com/mohamedsipli/mohamedsipli/blob/main/icons/fb.svg"/>
-	</a>
-<img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
+	
 </p><br><br>
 
-**[Visit my website &rarr;](https://mohamedsipli.technology/)**
+**[Visit my website &rarr;](https://mohamedsipli.github.io/)**
